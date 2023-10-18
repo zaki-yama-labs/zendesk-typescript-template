@@ -1,6 +1,8 @@
 localhost-key.pem
 localhost.pem
 
+tmp
+
 # Logs
 logs
 *.log
