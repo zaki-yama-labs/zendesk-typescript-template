@@ -9,7 +9,7 @@
   "location": {
     "support": {
       "ticket_sidebar": {
-        "url": "https://localhost:3000",
+        "url": "assets/index.html",
         "flexible": true
       }
     }

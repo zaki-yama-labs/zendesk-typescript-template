@@ -13,4 +13,8 @@ export default defineConfig({
   },
   plugins: [react()],
   base: "./",
+  build: {
+    assetsDir: '.',
+    outDir: 'dist/assets'
+  }
 });
